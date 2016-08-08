@@ -3,3 +3,4 @@ dumps
 venv
 /.project
 /_config.sh
+/.pydevproject
