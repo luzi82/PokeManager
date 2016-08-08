@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export USER_ID="user@domain.com"
+export PASSWORD="password"
